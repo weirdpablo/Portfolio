@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  background-color: #e3fdfd;
+}
+
+div {
+  display: inline-block;
+  position: absolute;
+  top: 12.5rem;
+  left: 37.5rem;
+}
+
+p {
+  margin-top: 5px;
+}
+h1 {
+  margin-bottom: 1px;
+  font-family: "Sacramento", cursive;
+  font-size: 30px;
+}
+
+img {
+  border-radius: 100%;
+  width: 12.5rem;
+  height: 12.5rem;
+}
+
+button {
+  position: absolute;
+  top: 31.25rem;
+  left: 39.375rem;
+  background-color: #71c9ce;
+  color: white;
+  border-style: none;
+  border-color: #e3fdfd;
+  padding: 10px;
+  border-radius: 10px;
+  width: 150px;
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer {
+  position: absolute;
+  left: 40.625rem;
+  top: 46.875rem;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+}
